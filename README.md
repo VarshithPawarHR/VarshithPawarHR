@@ -12,9 +12,6 @@ In my free time, I'm always on the hunt for bugs, both in real life 🐜 and in 
 
 Gaming breaks? They're just "research" for better UI/UX, right? 🎮 At least that's what I tell myself when I'm diving into the gaming world. It's all about improving user experiences, after all! 😉
 
-## Committing to Code 📈
-
-I'm known for my frequent code commits. It's not that I can't commit to anything else, but when it comes to code, I'm all in! 🤷‍♂️
 
 ## Interests 🌟
 
