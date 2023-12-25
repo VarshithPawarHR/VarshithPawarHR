@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Varshith Pawar H R
 
-A nocturnal coder by night 🌙, student by day 📚, and an avid bug hunter both in code and real life! 🕵️‍♂️ I'm passionate about understanding code, fixing bugs, and constantly improving my skills.
+A nocturnal coder by night 🌙 and a student by day 📚 I'm passionate about understanding code, fixing bugs, and constantly improving my skills.
 
 ## Interests 🌟
 
