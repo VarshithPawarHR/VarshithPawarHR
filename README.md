@@ -18,6 +18,10 @@ A nocturnal coder by night 🌙, student by day 📚, and an avid bug hunter bot
 - 📧 **Email**: varshithpawarhr@gmail.com
 - 📸 **Instagram**: DM me at @mr.pawar_10
 
-### GitHub Activity Graph 📊
+### Stats Time! 📊
 
-![Varshith Pawar H R's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VarshithPawarHR&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
+![Varshith Pawar H R's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarshithPawarHR&show_icons=true&theme=dark)
+
+### Top Languages 🌍
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarshithPawarHR&layout=compact&theme=dark)
