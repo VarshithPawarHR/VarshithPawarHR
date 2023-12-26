@@ -18,9 +18,7 @@ A nocturnal coder by night 🌙 and a student by day 📚 I'm passionate about u
 - 📧 **Email**: varshithpawarhr@gmail.com
 - 📸 **Instagram**: DM me at @mr.pawar_10
 
-### Stats Time! 📊
 
-![Varshith Pawar H R's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarshithPawarHR&show_icons=true&theme=dark)
 
 ### Top Languages 🌍
 
