@@ -10,8 +10,9 @@ A nocturnal coder by night 🌙 and a student by day 📚 I'm passionate about u
 
 ## Current Focus 🌱
 
-- 🌐 **JavaScript (JS)**: Expanding expertise in web development.
+- 🌐 **webflow**
 - ☕ **Java**: Delving deeper into Java programming.
+- **DSA**
 
 ## Let's Connect! 📫
 
