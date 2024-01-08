@@ -1,6 +1,4 @@
-# Hey there! 👋 I'm Varshith Pawar H R
-
-A nocturnal coder by night 🌙 and a student by day 📚 I'm passionate about understanding code, fixing bugs, and constantly improving my skills.
+# Hey there! 👋 Myself  Varshith Pawar H R
 
 ## Interests 🌟
 
