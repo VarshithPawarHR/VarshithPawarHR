@@ -1,16 +1,6 @@
 # Hey there! 👋 Myself  Varshith Pawar H R
 
-## Interests 🌟
-
-- 🍿 **Anime**: Love exploring different anime genres and series.
-- 🎨 **Design**: Fascinated by the art of creating visually appealing interfaces.
-- 🐶 **Dogs**: Absolutely adore our furry friends! 🐕
-
-## Current Focus 🌱
-
-- 🌐 **webflow**
-- ☕ **Java**: Delving deeper into Java programming.
-- **DSA**
+##Just an engineering student trying to build his career
 
 ## Let's Connect! 📫
 
