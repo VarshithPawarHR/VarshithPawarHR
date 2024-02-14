@@ -13,9 +13,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarshithPawarHR&layout=compact&theme=dark)
 
-## Maximum Commit Streak
 
-To find the maximum commit streak in this repository, you can use the following script:
 
 # BYE BYE
 
