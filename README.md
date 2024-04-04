@@ -5,7 +5,7 @@
 # Let's Connect! 📫
 
 - 📧 **Email**: varshithpawarhr@gmail.com
-- 📸 **Instagram**: DM me at [@mr.pawar_10](https://www.instagram.com/mr.pawar_10/)
+- 📸 **Talk about cats**: DM me at [@mr.pawar_10](https://www.instagram.com/mr.pawar_10/)
 
 
 
