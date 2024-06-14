@@ -1,13 +1,2 @@
-# Hey there! 👋 Myself  Varshith Pawar H R
-
-# Just an engineering student trying to build his career
-
-# Let's Connect! 📫
-
-- 📧 **Email**: varshithpawarhr@gmail.com
-- 📸 **Talk about cats**: DM me at [@mr.pawar_10](https://www.instagram.com/mr.pawar_10/)
-
-
-
 
 
