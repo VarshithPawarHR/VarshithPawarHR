@@ -1,6 +1,10 @@
 # Varshith Pawar H R
 # 💫 About Me:
-🔭 I’m currently working on Astro Js, gsap ,React-Native<br>👯 I’m looking to collaborate on junior projects<br>🤝 I’m looking for help with web projects<br>🌱 I’m currently learning AstroJs, gsap ,React-Native<br>⚡ Fun fact no fun fact
+🔭 contact me at varshithpawarhr@gmail.com
+👯 I’m looking to collaborate on junior projects<br>
+🤝 I’m looking for help with web projects<br>
+🌱 I’m currently learning AstroJs, gsap ,React-Native<br>
+⚡ Fun fact no fun fact
 
 
 ## 🌐 Socials:
