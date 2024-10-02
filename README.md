@@ -4,7 +4,7 @@
 👯 I’m looking to collaborate on junior projects<br>
 🤝 I’m looking for help with web projects<br>
 🌱 I’m currently learning AstroJs, gsap ,React-Native<br>
-⚡ Fun fact no fun fact
+
 
 
 ## 🌐 Socials:
