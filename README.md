@@ -23,22 +23,31 @@ Here are some ideas to get you started:
   
 ## Projects 💎
 
-<a href="https://github.com/VarshithPawarHR/campushub">![Readme Card](https://github.com/VarshithPawarHR/campushub/blob/master/README.md&theme=aura)</a>
-<a href="https://github.com/Karthik-S-Salian/dotfiles">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karthik-S-Salian&repo=dotfiles&theme=aura)</a>
-<a href="https://github.com/Karthik-S-Salian/firetools">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karthik-S-Salian&repo=firetools&theme=aura)</a>
-<a href="https://github.com/Karthik-S-Salian/nmamitloop">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Karthik-S-Salian&repo=nmamitloop&theme=aura)</a>
+<a href="https://github.com/VarshithPawarHR/campushub">
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VarshithPawarHR&repo=campushub&theme=aura)
+</a>
+<a href="https://github.com/Inspirante-Tech/krishnaveni-ashrayadhama">
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Inspirante-Tech&repo=krishnaveni-ashrayadhama&theme=aura)
+</a>
+<a href="https://github.com/VarshithPawarHR/COVID-19-Insights-R">
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VarshithPawarHR&repo=COVID-19-Insights-R&theme=aura)
+</a>
+<a href="https://github.com/VarshithPawarHR/Health-Guardian---DSUhacathon">
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VarshithPawarHR&repo=Health-Guardian---DSUhacathon&theme=aura)
+</a>
 
- **To check more projects access my [repositories page](https://github.com/Karthik-S-Salian?tab=repositories)!**
+ **To check more projects access my [repositories page](https://github.com/VarshithPawarHR?tab=repositories)!**
 
 ## Stats ⚡
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Karthik-S-Salian&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&card_height=214)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VarshithPawarHR&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=600&card_height=214)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-S-Salian&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarshithPawarHR&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Principles
 
-"An idiot admires complexity, a genius admires simplicity" - ― Terry Davis (dont ask who he is)
+"Any fool can make something complicated. It takes a genius to make it simple." — Woody Guthrie
 
 Simple is not always easy
 
